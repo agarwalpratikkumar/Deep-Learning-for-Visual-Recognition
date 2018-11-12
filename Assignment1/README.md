@@ -1,3 +1,8 @@
+__K-Nearest Neighbor__<br>
+
+![knn](https://user-images.githubusercontent.com/41232373/48345734-24585480-e679-11e8-86d0-bc907115d163.png)
+
+
 __Working:__
 From the diagram above, lets Consider the circles and the triangles are the training samples. Circles belong to class Red and Triangles belongs to class Yellow. And let's consider the blue star is the test data.
 
