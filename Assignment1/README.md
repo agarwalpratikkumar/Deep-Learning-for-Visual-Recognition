@@ -1,4 +1,4 @@
-__K-Nearest Neighbor__<br>
+__K-Nearest Neighbor__ (A classification technique)<br>
 
 ![knn](https://user-images.githubusercontent.com/41232373/48345734-24585480-e679-11e8-86d0-bc907115d163.png)
 
