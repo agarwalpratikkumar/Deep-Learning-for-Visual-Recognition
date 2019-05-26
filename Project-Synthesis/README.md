@@ -15,6 +15,8 @@ __After 1 epoch:__ ![fake_samples_epoch_1](https://user-images.githubusercontent
 <br>
 
 __After 37 epochs:__ ![fake_samples_epoch_38](https://user-images.githubusercontent.com/41232373/52541414-07750f80-2d95-11e9-948f-5d8c3dfb2ce0.png)
-
+<br>
+<br>
+We can easily see that most of the generated images are actually looking like real images.
 
 Refernce: https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html
